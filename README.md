@@ -1,5 +1,3 @@
-# twitter-clone-interview
-
 # REST API - Twitter clone
 
 ## User stories
